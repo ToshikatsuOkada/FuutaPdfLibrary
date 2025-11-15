@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using FuutaSystemSvcCommonLibrary;
 
-if ( args.Length != 0)
+if ( args.Length != 1)
 {
     Console.WriteLine("引数にPDFファイルのパスを一つ指定してください。");
     return;
