@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FuutaPdfLibrary/FuutaPdfLibrary.csproj" />
+  <Project Path="FuutaSystemSvcCommonLibrary/FuutaSystemSvcCommonLibrary.csproj" />
+</Solution>
